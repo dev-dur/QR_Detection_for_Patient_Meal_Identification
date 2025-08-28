@@ -22,7 +22,3 @@ A lightweight app that scans a QR code to identify a patient and instantly retri
 - Meal rules engine (e.g., auto-flag conflicts with health problem).
 - Role-based access and PIN lock.
 - Import/export CSV for patients.
-
-Printable QR badges/cards.
-
-PWA install + background sync.
